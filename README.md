@@ -11,6 +11,7 @@
 3. http://localhost:8080 접속
 
 <img width="786" alt="result" src="https://github.com/imyoi/block-file-extensions/assets/104837715/3b0a4cf4-c589-4599-853c-bcf07610347d">
-~
+
+
 ### 관련문서
 https://myoi.notion.site/d6278241f7204a11be86530bd0af4de5?pvs=4
